@@ -1,0 +1,501 @@
+CustomerID,CustomerName,Region,Segment
+1,,East,Premium
+2,Diya Chatterjee,West,Premium
+3,Meera Singh,West,Wholesale
+4,Atharv Sharma,North,Premium
+5,Navya Nair,East,Wholesale
+6,Ishika Das,Central,Premium
+7,Kavya Verma,East,Regular
+8,Aarav Iyer,Central,Wholesale
+9,Vivaan Chatterjee,North,Wholesale
+10,Arjun Verma,South,Regular
+11,Krishna Nair,West,Wholesale
+12,Ishaan Sharma,North,Wholesale
+13,Saanvi Bhat,West,Premium
+14,,South,Wholesale
+15,Arjun Singh,South,Regular
+16,Sai Yadav,North,Premium
+17,,South,Premium
+18,Aditya Bhat,Central,Regular
+19,,South,Regular
+20,Atharv Verma,West,Premium
+21,Arjun Nair,West,Wholesale
+22,Riya Mishra,West,Premium
+23,Atharv Mishra,West,Regular
+24,Vivaan Yadav,Central,Premium
+25,Arjun Gupta,East,Regular
+26,Vihaan Mishra,North,Premium
+27,Ishika Das,West,Wholesale
+28,Aarav Bhat,South,Premium
+29,Sai Gupta,West,Premium
+30,Kavya Reddy,South,Regular
+31,,South,Regular
+32,Ira Yadav,West,Regular
+33,Krishna Pillai,Central,Premium
+34,Diya Patel,South,Wholesale
+35,Kavya Iyer,South,Regular
+36,Aditya Verma,West,Regular
+37,Arjun Shetty,South,Premium
+38,Arjun Gowda,South,Regular
+39,Sai Singh,West,Wholesale
+40,Vihaan Sharma,West,Wholesale
+41,,North,Regular
+42,,Central,Regular
+43,Saanvi Kulkarni,Central,Premium
+44,Riya Nair,South,Wholesale
+45,Vihaan Sharma,Central,Wholesale
+46,Ira Das,South,Regular
+47,Atharv Iyer,North,Premium
+48,Vihaan Reddy,West,Wholesale
+49,Ayaan Jain,West,Wholesale
+50,Sai Mukherjee,West,Premium
+51,Meera Gowda,Central,Premium
+52,Saanvi Yadav,North,Wholesale
+53,Kavya Gupta,Central,Wholesale
+54,Krishna Pillai,Central,Premium
+55,Ira Chatterjee,North,Wholesale
+56,Sai Patel,North,Regular
+57,Sai Pillai,North,Regular
+58,Ayaan Pillai,North,Premium
+59,,West,Premium
+60,,East,Premium
+61,Aadhya Nair,East,Regular
+62,Ishaan Yadav,North,Wholesale
+63,Meera Gupta,East,Regular
+64,,East,Wholesale
+65,Ananya Gowda,North,Regular
+66,Kavya Patel,East,Wholesale
+67,Vivaan Nair,Central,Regular
+68,Aarav Verma,South,Premium
+69,Atharv Sharma,South,Regular
+70,Arjun Shetty,North,Wholesale
+71,Saanvi Joshi,West,Regular
+72,Ishika Mishra,North,Regular
+73,Atharv Chatterjee,West,Regular
+74,,South,Premium
+75,Atharv Reddy,North,Regular
+76,Ayaan Gowda,Central,Premium
+77,,East,Premium
+78,Aarav Mishra,West,Regular
+79,Riya Mukherjee,East,Regular
+80,Ishaan Patel,East,Regular
+81,Krishna Shetty,North,Wholesale
+82,Aadhya Nair,East,Regular
+83,Navya Gupta,Central,Premium
+84,Meera Mishra,East,Regular
+85,Vihaan Singh,North,Wholesale
+86,,Central,Regular
+87,Navya Gupta,South,Wholesale
+88,Ishaan Singh,East,Wholesale
+89,Riya Kulkarni,North,Regular
+90,Ishika Pillai,South,Premium
+91,Ananya Bhat,South,Wholesale
+92,,West,Regular
+93,Aadhya Verma,Central,Regular
+94,Aadhya Bhat,East,Premium
+95,Meera Singh,North,Wholesale
+96,Aditya Patel,West,Wholesale
+97,,Central,Regular
+98,Riya Verma,West,Regular
+99,Diya Reddy,Central,Premium
+100,Navya Shetty,Central,Premium
+101,Krishna Mishra,East,Wholesale
+102,Ira Mukherjee,Central,Wholesale
+103,Ishaan Gowda,West,Regular
+104,Saanvi Singh,Central,Wholesale
+105,Atharv Chatterjee,East,Premium
+106,Sai Sharma,East,Premium
+107,Aarav Sharma,West,Regular
+108,Ayaan Sharma,South,Premium
+109,Vihaan Patel,South,Premium
+110,Sai Verma,Central,Premium
+111,Ayaan Jain,North,Premium
+112,Krishna Gupta,Central,Regular
+113,Aadhya Kulkarni,West,Regular
+114,Riya Shetty,West,Wholesale
+115,Vihaan Singh,West,Premium
+116,Vivaan Mishra,West,Wholesale
+117,Diya Yadav,West,Regular
+118,Krishna Shetty,East,Regular
+119,Krishna Shetty,South,Regular
+120,Ira Singh,West,Regular
+121,Ananya Verma,North,Regular
+122,Kavya Mishra,North,Regular
+123,Arjun Verma,North,Regular
+124,Diya Pillai,North,Premium
+125,Ayaan Patel,East,Wholesale
+126,Vivaan Reddy,North,Regular
+127,Ira Yadav,West,Premium
+128,Sai Joshi,Central,Premium
+129,Meera Shetty,North,Wholesale
+130,Atharv Mukherjee,East,Regular
+131,Ira Shetty,East,Wholesale
+132,Aarav Das,North,Regular
+133,,Central,Premium
+134,Ishika Mukherjee,North,Premium
+135,Aadhya Iyer,East,Premium
+136,Saanvi Singh,South,Premium
+137,Vihaan Das,West,Wholesale
+138,Aarav Jain,East,Regular
+139,Sai Chatterjee,North,Regular
+140,Vivaan Patel,West,Wholesale
+141,Atharv Sharma,North,Regular
+142,Diya Verma,North,Premium
+143,Riya Pillai,South,Regular
+144,Meera Mukherjee,West,Premium
+145,Arjun Chatterjee,West,Wholesale
+146,Krishna Mukherjee,South,Regular
+147,Aadhya Yadav,East,Wholesale
+148,Ananya Nair,North,Regular
+149,Vivaan Kulkarni,Central,Premium
+150,Arjun Kulkarni,North,Wholesale
+151,Vihaan Nair,North,Regular
+152,Vihaan Jain,East,Premium
+153,Vihaan Pillai,North,Wholesale
+154,Ayaan Chatterjee,South,Wholesale
+155,Navya Das,South,Regular
+156,Riya Chatterjee,West,Regular
+157,Ayaan Joshi,Central,Regular
+158,Vivaan Bhat,North,Premium
+159,Ishaan Gupta,North,Regular
+160,Ishaan Shetty,East,Wholesale
+161,Ira Singh,South,Wholesale
+162,Arjun Shetty,Central,Regular
+163,Krishna Joshi,West,Regular
+164,Ishaan Mukherjee,South,Wholesale
+165,Ishaan Gupta,West,Premium
+166,Krishna Kulkarni,East,Regular
+167,Vivaan Reddy,East,Regular
+168,Diya Nair,North,Wholesale
+169,Diya Iyer,Central,Regular
+170,Aarav Gowda,West,Premium
+171,Saanvi Yadav,South,Wholesale
+172,Ishaan Mishra,East,Regular
+173,Aditya Das,North,Wholesale
+174,Sai Singh,North,Regular
+175,Ishaan Nair,West,Regular
+176,Kavya Gowda,East,Regular
+177,Saanvi Reddy,Central,Premium
+178,Aarav Mishra,East,Premium
+179,,West,Wholesale
+180,Sai Yadav,West,Regular
+181,,East,Regular
+182,Vihaan Gupta,West,Premium
+183,Riya Mukherjee,East,Regular
+184,Ananya Chatterjee,South,Premium
+185,Ayaan Bhat,East,Regular
+186,Ira Chatterjee,East,Wholesale
+187,Ishaan Singh,West,Regular
+188,Sai Shetty,West,Regular
+189,Saanvi Singh,North,Premium
+190,Aditya Mishra,North,Regular
+191,Ira Verma,South,Regular
+192,Arjun Singh,North,Premium
+193,Riya Bhat,East,Wholesale
+194,,West,Wholesale
+195,Meera Singh,North,Premium
+196,Aarav Patel,North,Premium
+197,Meera Shetty,South,Premium
+198,Ayaan Nair,South,Premium
+199,Ishika Chatterjee,East,Premium
+200,Arjun Joshi,West,Wholesale
+201,Ayaan Jain,South,Wholesale
+202,Ananya Shetty,North,Premium
+203,Ananya Sharma,West,Regular
+204,Atharv Nair,West,Premium
+205,Sai Sharma,North,Regular
+206,Vihaan Mishra,South,Premium
+207,Sai Yadav,North,Premium
+208,Ishaan Reddy,West,Wholesale
+209,Kavya Kulkarni,Central,Regular
+210,Ishika Chatterjee,Central,Regular
+211,,East,Wholesale
+212,Aditya Chatterjee,North,Wholesale
+213,,North,Wholesale
+214,Arjun Mishra,East,Wholesale
+215,Saanvi Iyer,East,Regular
+216,Ishika Nair,East,Regular
+217,Navya Kulkarni,West,Premium
+218,Ishika Jain,North,Premium
+219,Ira Yadav,West,Wholesale
+220,Vihaan Pillai,East,Wholesale
+221,Ishaan Gowda,North,Wholesale
+222,Navya Mishra,West,Premium
+223,Arjun Bhat,West,Premium
+224,Kavya Joshi,East,Premium
+225,,North,Premium
+226,,East,Premium
+227,Vivaan Yadav,North,Premium
+228,Ishika Joshi,Central,Premium
+229,Aditya Shetty,South,Wholesale
+230,Aarav Chatterjee,South,Wholesale
+231,Meera Singh,South,Wholesale
+232,Ishaan Reddy,East,Wholesale
+233,Navya Nair,Central,Premium
+234,Meera Gowda,North,Regular
+235,Arjun Mishra,West,Premium
+236,Krishna Verma,North,Regular
+237,,West,Wholesale
+238,Vihaan Shetty,North,Premium
+239,Ayaan Kulkarni,Central,Wholesale
+240,Ayaan Nair,West,Premium
+241,Diya Gowda,East,Wholesale
+242,Riya Jain,North,Regular
+243,Ananya Bhat,North,Regular
+244,Atharv Gupta,West,Regular
+245,Atharv Pillai,East,Premium
+246,Meera Reddy,East,Regular
+247,,Central,Premium
+248,Navya Gowda,East,Regular
+249,Meera Chatterjee,East,Regular
+250,Aadhya Jain,East,Premium
+251,,South,Premium
+252,Ira Verma,Central,Regular
+253,Navya Singh,North,Premium
+254,,West,Regular
+255,Sai Singh,North,Premium
+256,,Central,Wholesale
+257,Kavya Joshi,West,Wholesale
+258,,Central,Wholesale
+259,Riya Nair,East,Wholesale
+260,,West,Wholesale
+261,Navya Chatterjee,East,Regular
+262,Ishaan Reddy,North,Wholesale
+263,Aadhya Yadav,North,Wholesale
+264,Aditya Gowda,West,Wholesale
+265,,West,Wholesale
+266,Saanvi Kulkarni,Central,Premium
+267,,Central,Regular
+268,Vihaan Jain,East,Wholesale
+269,,West,Wholesale
+270,Atharv Verma,North,Wholesale
+271,Ishika Das,Central,Regular
+272,Arjun Sharma,Central,Premium
+273,Saanvi Mishra,North,Regular
+274,Kavya Mukherjee,Central,Premium
+275,Meera Mishra,East,Wholesale
+276,Navya Bhat,West,Wholesale
+277,Vihaan Patel,North,Regular
+278,Vivaan Mishra,West,Regular
+279,Aadhya Chatterjee,Central,Premium
+280,Saanvi Yadav,Central,Premium
+281,Saanvi Nair,North,Regular
+282,Sai Das,East,Premium
+283,Diya Gowda,South,Regular
+284,Atharv Gupta,North,Premium
+285,Aarav Iyer,South,Regular
+286,Vivaan Shetty,South,Regular
+287,Riya Joshi,East,Regular
+288,Ira Sharma,South,Premium
+289,Aadhya Mukherjee,South,Premium
+290,Navya Mukherjee,East,Premium
+291,,South,Regular
+292,,South,Premium
+293,,South,Premium
+294,Meera Kulkarni,North,Regular
+295,Navya Das,North,Wholesale
+296,Ananya Sharma,North,Regular
+297,Diya Sharma,East,Premium
+298,Vivaan Gowda,Central,Regular
+299,Aarav Verma,South,Wholesale
+300,Sai Reddy,South,Regular
+301,Ananya Iyer,East,Premium
+302,Riya Sharma,South,Wholesale
+303,,North,Premium
+304,Vihaan Iyer,Central,Wholesale
+305,Meera Yadav,West,Wholesale
+306,Sai Chatterjee,South,Regular
+307,,North,Regular
+308,Vivaan Mishra,West,Premium
+309,Ishaan Bhat,Central,Regular
+310,Arjun Sharma,West,Regular
+311,Sai Nair,North,Wholesale
+312,Krishna Jain,West,Regular
+313,Riya Gupta,East,Wholesale
+314,Sai Yadav,West,Wholesale
+315,,South,Wholesale
+316,Ayaan Kulkarni,South,Premium
+317,Diya Chatterjee,East,Premium
+318,Riya Joshi,North,Premium
+319,Diya Bhat,South,Wholesale
+320,Kavya Iyer,Central,Premium
+321,Saanvi Chatterjee,South,Premium
+322,,South,Regular
+323,Navya Das,North,Premium
+324,,West,Premium
+325,Vihaan Singh,South,Wholesale
+326,Vihaan Sharma,East,Wholesale
+327,Sai Shetty,West,Wholesale
+328,Aadhya Chatterjee,Central,Wholesale
+329,Meera Shetty,North,Wholesale
+330,Atharv Gupta,Central,Wholesale
+331,Kavya Sharma,West,Premium
+332,Kavya Gupta,West,Wholesale
+333,Ishaan Chatterjee,West,Wholesale
+334,Navya Verma,Central,Regular
+335,Atharv Mishra,West,Premium
+336,Aarav Sharma,Central,Premium
+337,Diya Verma,West,Premium
+338,Atharv Joshi,East,Wholesale
+339,Vivaan Bhat,West,Wholesale
+340,Saanvi Singh,Central,Wholesale
+341,Aadhya Mukherjee,South,Regular
+342,Aadhya Jain,West,Wholesale
+343,Aditya Gowda,South,Regular
+344,Atharv Gupta,East,Premium
+345,Diya Shetty,North,Wholesale
+346,Ishaan Nair,East,Regular
+347,Kavya Mishra,West,Regular
+348,Vivaan Shetty,South,Wholesale
+349,Riya Mishra,South,Premium
+350,Krishna Verma,Central,Premium
+351,Saanvi Mukherjee,South,Premium
+352,Ishaan Jain,Central,Regular
+353,Saanvi Sharma,North,Regular
+354,Kavya Chatterjee,West,Regular
+355,,Central,Regular
+356,Krishna Iyer,North,Premium
+357,Vivaan Mishra,South,Wholesale
+358,Meera Joshi,South,Regular
+359,Ira Bhat,North,Regular
+360,Arjun Jain,South,Premium
+361,Sai Gupta,North,Wholesale
+362,,Central,Wholesale
+363,Kavya Jain,Central,Premium
+364,,North,Premium
+365,Sai Bhat,Central,Wholesale
+366,Aditya Joshi,Central,Regular
+367,Aadhya Gupta,Central,Wholesale
+368,,East,Premium
+369,Riya Singh,West,Regular
+370,Ananya Sharma,South,Regular
+371,Ishaan Nair,East,Premium
+372,Sai Gupta,Central,Premium
+373,,North,Premium
+374,Aditya Kulkarni,Central,Wholesale
+375,Vihaan Mishra,West,Wholesale
+376,Atharv Jain,Central,Regular
+377,Atharv Patel,North,Premium
+378,Aditya Jain,West,Regular
+379,Vivaan Gupta,Central,Regular
+380,Ishaan Mishra,West,Regular
+381,Atharv Shetty,South,Regular
+382,Ira Chatterjee,South,Premium
+383,Meera Verma,Central,Regular
+384,Diya Joshi,West,Premium
+385,Kavya Kulkarni,North,Premium
+386,Ishika Kulkarni,Central,Wholesale
+387,Navya Mukherjee,South,Premium
+388,,South,Wholesale
+389,Kavya Mukherjee,Central,Premium
+390,Navya Reddy,West,Premium
+391,Sai Yadav,South,Premium
+392,Ishaan Gowda,West,Wholesale
+393,Riya Das,South,Wholesale
+394,Saanvi Singh,South,Regular
+395,Ishika Pillai,East,Wholesale
+396,Atharv Gupta,South,Wholesale
+397,Aarav Kulkarni,North,Wholesale
+398,Saanvi Mishra,Central,Wholesale
+399,Sai Kulkarni,Central,Regular
+400,Vihaan Mishra,West,Wholesale
+401,Ishaan Sharma,South,Premium
+402,,North,Premium
+403,Vivaan Iyer,West,Wholesale
+404,,East,Wholesale
+405,Meera Pillai,West,Premium
+406,Ishika Verma,West,Premium
+407,Meera Chatterjee,South,Regular
+408,Kavya Mukherjee,East,Premium
+409,,West,Premium
+410,Arjun Pillai,North,Wholesale
+411,Aarav Gupta,North,Premium
+412,Diya Pillai,Central,Regular
+413,Arjun Jain,East,Premium
+414,Meera Sharma,East,Wholesale
+415,,Central,Wholesale
+416,Diya Yadav,West,Premium
+417,Riya Patel,East,Wholesale
+418,Ayaan Nair,North,Regular
+419,Aarav Mishra,North,Regular
+420,Aadhya Gupta,South,Premium
+421,,East,Premium
+422,,West,Premium
+423,Ishika Mukherjee,Central,Wholesale
+424,,Central,Regular
+425,Diya Patel,West,Regular
+426,Ayaan Iyer,South,Wholesale
+427,Ishika Iyer,Central,Regular
+428,Arjun Shetty,East,Premium
+429,Atharv Chatterjee,South,Premium
+430,Meera Iyer,East,Premium
+431,Meera Iyer,North,Regular
+432,Ishaan Kulkarni,South,Premium
+433,Ayaan Nair,Central,Wholesale
+434,,South,Wholesale
+435,Aadhya Singh,South,Regular
+436,Krishna Yadav,South,Wholesale
+437,Krishna Reddy,South,Wholesale
+438,Riya Jain,East,Regular
+439,Ananya Iyer,North,Premium
+440,Diya Yadav,West,Premium
+441,Aditya Shetty,South,Premium
+442,,Central,Regular
+443,,South,Wholesale
+444,Kavya Nair,Central,Premium
+445,Ayaan Yadav,East,Premium
+446,Meera Verma,Central,Regular
+447,Atharv Singh,West,Premium
+448,Krishna Kulkarni,North,Regular
+449,Krishna Bhat,Central,Wholesale
+450,Ananya Verma,Central,Regular
+451,Ishika Shetty,North,Regular
+452,Vihaan Sharma,West,Regular
+453,Meera Bhat,South,Regular
+454,Vihaan Das,Central,Wholesale
+455,Ananya Das,North,Wholesale
+456,Aadhya Gowda,East,Premium
+457,Ananya Jain,North,Wholesale
+458,Kavya Yadav,East,Wholesale
+459,Krishna Yadav,West,Premium
+460,Ananya Kulkarni,South,Wholesale
+461,Ira Shetty,North,Regular
+462,Arjun Mishra,Central,Regular
+463,Vihaan Gupta,West,Premium
+464,Arjun Sharma,North,Premium
+465,Saanvi Gowda,Central,Premium
+466,Vihaan Gupta,North,Regular
+467,Aarav Yadav,East,Wholesale
+468,,North,Regular
+469,Ayaan Pillai,North,Premium
+470,Aarav Gupta,North,Wholesale
+471,Riya Mishra,West,Wholesale
+472,Aarav Mishra,North,Regular
+473,Diya Mukherjee,Central,Premium
+474,,East,Regular
+475,Kavya Singh,East,Wholesale
+476,Diya Reddy,North,Regular
+477,,West,Regular
+478,Ayaan Kulkarni,West,Premium
+479,,Central,Premium
+480,Aarav Gupta,North,Wholesale
+481,Arjun Das,East,Regular
+482,Diya Das,West,Regular
+483,Krishna Bhat,North,Regular
+484,Sai Yadav,West,Wholesale
+485,Riya Shetty,West,Wholesale
+486,Ayaan Joshi,East,Premium
+487,Ananya Mukherjee,South,Premium
+488,Meera Verma,Central,Premium
+489,Meera Das,Central,Regular
+490,Ananya Yadav,East,Regular
+491,Ayaan Nair,West,Premium
+492,Krishna Singh,North,Regular
+493,Navya Sharma,West,Premium
+494,Ayaan Gupta,East,Wholesale
+495,Vivaan Patel,Central,Premium
+496,Meera Joshi,West,Wholesale
+497,Ishika Mukherjee,Central,Regular
+498,Diya Nair,North,Premium
+499,Vihaan Shetty,Central,Regular
+500,Ishaan Jain,Central,Wholesale

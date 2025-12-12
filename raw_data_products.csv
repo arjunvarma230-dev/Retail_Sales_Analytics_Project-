@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,UnitPrice
+1,Laptop,Electronics,15945
+2,Smartphone,Electronics,1010
+3,Headphones,Accessories,76970
+4,Keyboard,Accessories,55036
+5,  mouse  ,Accessories,6415
+6,Smartwatch,Electronics,82536
+7,Monitor,Electronics,37344
+8,Tablet,Electronics,87648
+9,Printer,Office,44281
+10,Webcam,Accessories,60413
+11,Router,Electronics,16173
+12,USB Drive,Accessories,41240
+13,  external hdd  ,Accessories,67371
+14,Graphics Card,Electronics,64970
+15,Processor,Electronics,919
+16,  ram 8gb  ,Electronics,59885
+17,RAM 16GB,Electronics,63105
+18,SSD 256GB,Electronics,65075
+19,SSD 512GB,Electronics,68119
+20,  speaker  ,Accessories,5461
+21,  chair  ,Furniture,83254
+22,Desk,Furniture,53857
+23,Notebook,Stationery,85455
+24,Pen Set,Stationery,28843
+25,  stapler  ,Stationery,72082
+26,Desk Lamp,Furniture,25808
+27,Calculator,Electronics,84628
+28,  whiteboard  ,Office,18581
+29,  markers  ,Stationery,2897
+30,  paper pack  ,Stationery,59300
