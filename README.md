@@ -62,7 +62,7 @@ Based on SQL + Power BI findings (see below).
 
 ## 📚 Dataset Summary
 
-The dataset consists of **10,000+ rows** across three tables:
+The dataset consists of **5,000+ rows** across three tables:
 
 ### **Customers Table**
 - CustomerID  
